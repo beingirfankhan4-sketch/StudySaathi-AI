@@ -1,0 +1,6 @@
+{
+  "name": "StudySaathi AI",
+  "description": "AI-powered study companion for smarter learning, explanations, study support, and exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
